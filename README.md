@@ -1,0 +1,8 @@
+## OUTPUT:
+
+didFinishLaunchingWithOptions
+sceneWillEnterForeground
+viewDidLoad
+viewWillAppear
+viewDidAppear
+sceneDidBecomeActive
